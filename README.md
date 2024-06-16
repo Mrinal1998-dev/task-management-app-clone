@@ -1,3 +1,6 @@
+<h2>Description</h2>
+<div>React Native Clone of Task Manager App Candy, built using Expo. Developed for the purpose of training in React Native. Tested on Android devices only. </div>
+<br>
 <h2>Screenshots</h2>
 <br>
 
