@@ -1,0 +1,18 @@
+{ 
+  "notifset1": "Recevez des notifications par e-mail",
+  "notifset2": "Vibrer en alerte",
+  "flossset1": "Partager le profil avec d'autres utilisateurs",
+  "flossset2": "Afficher l'état d'achèvement de votre tâche",
+  "changelang": "Changer de langue",
+  "notifsettings": "Paramètres de notification",
+  "flosssettings": "Paramètres du fil dentaire",
+  "alerts": "Alertes",
+  "updates": "Mises à jour",
+  "english": "Anglaise",
+  "french": "Française",
+  "&": "et",
+  "upcoming": "A venir",
+  "tasks": "tâches",
+  "today's": "Aujourd'hui",
+  "list": "Liste"
+}

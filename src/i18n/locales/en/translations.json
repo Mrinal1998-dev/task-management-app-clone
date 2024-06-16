@@ -1,0 +1,20 @@
+{
+    "SignUp": "Sign Up",
+    "carouselText": "some random text",
+    "notifset1": "Get email notifications",
+    "notifset2": "Vibrate on alert",
+    "flossset1": "Share profile with other users",
+    "flossset2": "Show your task completion status",
+    "changelang": "Change Language" ,
+    "notifsettings": "Notification Settings",
+    "flosssettings": "Floss Settings",
+    "alerts": "Alerts",
+    "updates": "Updates",
+    "english": "English",
+    "french": "French",
+    "&": "&",
+    "upcoming": "Upcoming",
+    "tasks": "tasks",
+    "today's": "Today's",
+    "list": "List"
+}
